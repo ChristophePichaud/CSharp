@@ -11,3 +11,15 @@ C:\Dev\MyConsole1\obj\Debug\netcoreapp3.1\MyConsole1.csproj.CoreCompileInputs.ca
 C:\Dev\MyConsole1\obj\Debug\netcoreapp3.1\MyConsole1.dll
 C:\Dev\MyConsole1\obj\Debug\netcoreapp3.1\MyConsole1.pdb
 C:\Dev\MyConsole1\obj\Debug\netcoreapp3.1\MyConsole1.genruntimeconfig.cache
+C:\Dev\LocalPath_CSharp\MyConsole1\bin\Debug\netcoreapp3.1\MyConsole1.exe
+C:\Dev\LocalPath_CSharp\MyConsole1\bin\Debug\netcoreapp3.1\MyConsole1.deps.json
+C:\Dev\LocalPath_CSharp\MyConsole1\bin\Debug\netcoreapp3.1\MyConsole1.runtimeconfig.json
+C:\Dev\LocalPath_CSharp\MyConsole1\bin\Debug\netcoreapp3.1\MyConsole1.runtimeconfig.dev.json
+C:\Dev\LocalPath_CSharp\MyConsole1\bin\Debug\netcoreapp3.1\MyConsole1.dll
+C:\Dev\LocalPath_CSharp\MyConsole1\bin\Debug\netcoreapp3.1\MyConsole1.pdb
+C:\Dev\LocalPath_CSharp\MyConsole1\obj\Debug\netcoreapp3.1\MyConsole1.AssemblyInfoInputs.cache
+C:\Dev\LocalPath_CSharp\MyConsole1\obj\Debug\netcoreapp3.1\MyConsole1.AssemblyInfo.cs
+C:\Dev\LocalPath_CSharp\MyConsole1\obj\Debug\netcoreapp3.1\MyConsole1.csproj.CoreCompileInputs.cache
+C:\Dev\LocalPath_CSharp\MyConsole1\obj\Debug\netcoreapp3.1\MyConsole1.dll
+C:\Dev\LocalPath_CSharp\MyConsole1\obj\Debug\netcoreapp3.1\MyConsole1.pdb
+C:\Dev\LocalPath_CSharp\MyConsole1\obj\Debug\netcoreapp3.1\MyConsole1.genruntimeconfig.cache
